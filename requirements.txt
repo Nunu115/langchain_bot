@@ -1,0 +1,5 @@
+discord.py
+langchain==0.1.0
+openai
+chromadb
+tiktoken
